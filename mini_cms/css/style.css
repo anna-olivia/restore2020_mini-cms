@@ -1,0 +1,45 @@
+body{
+    background-color:black;
+    /* rgba(91, 91, 102, 0.705);*/
+    color:rgb(231, 231, 231);
+  
+}
+
+#wrap{
+    width: 60rem;
+    margin: auto;
+    overflow: hidden;
+}
+header{
+    background-color: rgb(114, 99, 70);
+height: 1.5625rem;
+} 
+#bildbereich{
+    float: left;
+    margin-right: 15px;
+}
+#ausgabe{
+    color: rgb(114, 99, 70);
+    padding: 1.5625rem;
+    float: right;
+    
+}
+#linie{
+    border: 0.3125rem solid rgb(114, 99, 70);
+   margin-top:26.875rem;
+   float: left;
+}
+
+
+h1{
+    float: right;
+
+}
+
+ #ausgabe a{
+     color: rgb(114, 99, 70);
+ }
+
+ form{
+margin-right: 400px;
+ }
